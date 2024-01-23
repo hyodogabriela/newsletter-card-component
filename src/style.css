@@ -4,4 +4,18 @@
   box-sizing: border-box;
 }
 
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight:bolder;
+}
+
+h3 {
+  color: green;
+ }
+
+
+.container {
+  text-align: center;
+}
+
 /* write your CSS here */
